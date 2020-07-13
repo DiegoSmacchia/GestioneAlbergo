@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pupi/Scrivania/Università/GestioneAlbergo/Albergo.csproj": {}
+  },
+  "projects": {
+    "/home/pupi/Scrivania/Università/GestioneAlbergo/Albergo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pupi/Scrivania/Università/GestioneAlbergo/Albergo.csproj",
+        "projectName": "Albergo",
+        "projectPath": "/home/pupi/Scrivania/Università/GestioneAlbergo/Albergo.csproj",
+        "packagesPath": "/home/pupi/.nuget/packages/",
+        "outputPath": "/home/pupi/Scrivania/Università/GestioneAlbergo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pupi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
