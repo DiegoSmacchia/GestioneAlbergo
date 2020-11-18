@@ -17,7 +17,7 @@ namespace Gestione_Albergo
             int count = 0;
 
             string nome;
-            FileInfo file = new FileInfo("nomi.txt");
+            FileInfo file = new FileInfo("../../../nomi.txt");
             StreamReader sr = new StreamReader(file.FullName);
 
             //Creo la lista di clienti tramite il creatore e i nomi presi dal file di testo

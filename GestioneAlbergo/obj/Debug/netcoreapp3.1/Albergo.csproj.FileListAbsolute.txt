@@ -63,3 +63,16 @@ C:\Users\federico.benedetti\Desktop\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albe
 C:\Users\federico.benedetti\Desktop\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albergo.dll
 C:\Users\federico.benedetti\Desktop\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albergo.pdb
 C:\Users\federico.benedetti\Desktop\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albergo.genruntimeconfig.cache
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\bin\Debug\netcoreapp3.1\Albergo.exe
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\bin\Debug\netcoreapp3.1\Albergo.deps.json
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\bin\Debug\netcoreapp3.1\Albergo.runtimeconfig.json
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\bin\Debug\netcoreapp3.1\Albergo.runtimeconfig.dev.json
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\bin\Debug\netcoreapp3.1\Albergo.dll
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\bin\Debug\netcoreapp3.1\Albergo.pdb
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albergo.csprojAssemblyReference.cache
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albergo.AssemblyInfoInputs.cache
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albergo.AssemblyInfo.cs
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albergo.csproj.CoreCompileInputs.cache
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albergo.dll
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albergo.pdb
+C:\Users\Diego Smacchia\source\repos\GestioneAlbergo\obj\Debug\netcoreapp3.1\Albergo.genruntimeconfig.cache
